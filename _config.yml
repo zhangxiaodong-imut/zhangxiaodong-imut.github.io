@@ -25,7 +25,7 @@ author:
   avatar           : "zhang.jpg"
   name             : "Xiaodong Zhang"
   pronouns         : # example: "she/her"  
-  bio              : # "Short biography for the left-hand sidebar"
+  bio              :  ""
   location         : "呼和浩特"
   employer         : "内蒙古工业大学"
   uri              : # URL
