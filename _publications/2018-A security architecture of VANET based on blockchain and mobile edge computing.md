@@ -1,7 +1,7 @@
 ---
 title: "A security architecture of VANET based on blockchain and mobile edge computing"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2018-A security architecture of VANET based on blockchain and mobile edge computing
 excerpt: 'EI'
 date: 2018-08-15
