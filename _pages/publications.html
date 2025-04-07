@@ -16,7 +16,6 @@ author_profile: true
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
     {% for post in site.publications reversed %}
-      <ol>
       {% if post.category != category[0] %}
         {% continue %}
       {% endif %}
@@ -25,7 +24,6 @@ author_profile: true
         {% assign title_shown = true %}
       {% endunless %}
       {% include archive-single.html %}
-      </ol>
     {% endfor %}
   {% endfor %}
 {% else %}
