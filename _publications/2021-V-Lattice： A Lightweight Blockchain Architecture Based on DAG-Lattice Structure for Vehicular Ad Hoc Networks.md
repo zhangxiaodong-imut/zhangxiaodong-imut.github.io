@@ -2,7 +2,7 @@
 title: "V-Lattice: A Lightweight Blockchain Architecture Based on DAG-Lattice Structure for Vehicular Ad Hoc Networks"
 collection: publications
 category: manuscripts
-permalink: /publication/2021-V-Lattice: A Lightweight Blockchain Architecture Based on DAG-Lattice Structure for Vehicular Ad Hoc Networks
+permalink: /publication/2021-V-Lattice： A Lightweight Blockchain Architecture Based on DAG-Lattice Structure for Vehicular Ad Hoc Networks
 excerpt: '中科院JCR期刊分区4区，影响因子：1.968，CCF推荐英文C类学术期刊'
 date: 2021-05-30
 venue: 'Security and Communication Networks'
