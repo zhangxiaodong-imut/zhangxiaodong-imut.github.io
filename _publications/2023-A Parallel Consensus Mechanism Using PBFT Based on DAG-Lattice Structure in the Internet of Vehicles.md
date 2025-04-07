@@ -1,7 +1,7 @@
 ---
 title: "A Parallel Consensus Mechanism Using PBFT Based on DAG-Lattice Structure in the Internet of Vehicles"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2023-A Parallel Consensus Mechanism Using PBFT Based on DAG-Lattice Structure in the Internet of Vehicles
 excerpt: '中科院JCR期刊分区1区 Top，影响因子：10.238'
 date: 2023-02-17
