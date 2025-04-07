@@ -28,9 +28,9 @@
 
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
-        <ol><a href="{{ post.link }}"><li>{{ title }}</li></a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a></ol>
+        <ol><a href="{{ post.link }}" style="text-decoration: none;"><li>{{ title }}</li></a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a></ol>
       {% else %}
-        <ol><a href="{{ base_path }}{{ post.url }}" rel="permalink"><li>{{ title }}</li></a></ol>
+        <ol><a href="{{ base_path }}{{ post.url }}" rel="permalink" style="text-decoration: none;"><li>{{ title }}</li></a></ol>
       {% endif %}
     </h2>
     
