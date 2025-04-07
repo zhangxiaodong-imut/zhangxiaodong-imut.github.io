@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2018-A security architecture of VANET based on blockchain and mobile edge computing
 excerpt: 'EI'
-date: 2018
+date: 2018-08-15
 venue: '2018 1st IEEE International Conference on Hot Information-Centric Networking (HotICN)'
 paperurl: 'https://doi.org/10.1109/HOTICN.2018.8605952'
 citation: '<b>Xiaodong Zhang</b>, Ru Li and Bu Cui, "A security architecture of VANET based on blockchain and mobile edge computing," in 2018 1st IEEE International Conference on Hot Information-Centric Networking (HotICN), Shenzhen, China, Aug. 2018, pp. 258-259.'
