@@ -14,9 +14,9 @@ author_profile: true
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
-    <ol>
     {% assign title_shown = false %}
     {% for post in site.publications reversed %}
+      <ol>
       {% if post.category != category[0] %}
         {% continue %}
       {% endif %}
@@ -25,8 +25,8 @@ author_profile: true
         {% assign title_shown = true %}
       {% endunless %}
       {% include archive-single.html %}
+      </ol>
     {% endfor %}
-    </ol>
   {% endfor %}
 {% else %}
   {% for post in site.publications reversed %}
