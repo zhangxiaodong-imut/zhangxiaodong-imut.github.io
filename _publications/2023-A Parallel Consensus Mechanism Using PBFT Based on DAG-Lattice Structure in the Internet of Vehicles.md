@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2023-A Parallel Consensus Mechanism Using PBFT Based on DAG-Lattice Structure in the Internet of Vehicles
 excerpt: '中科院JCR期刊分区1区 Top，影响因子：10.238'
-date: 2023-02-17
+date: 2023-03-01
 venue: 'IEEE Internet of Things Journal'
 paperurl: 'https://doi.org/10.1109/JIOT.2022.3222217'
 citation: '<b>Xiaodong Zhang</b>, Ru Li, Hui Zhao, "A Parallel Consensus Mechanism Using PBFT Based on DAG-Lattice Structure in the Internet of Vehicles", IEEE Internet of Things Journal, vol. 10, no. 6, pp. 5418-5433, 2023. '
