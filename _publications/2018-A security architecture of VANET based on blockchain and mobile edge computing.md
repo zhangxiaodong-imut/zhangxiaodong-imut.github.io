@@ -3,7 +3,7 @@ title: "A security architecture of VANET based on blockchain and mobile edge com
 collection: publications
 category: conferences
 permalink: /publication/2018-A security architecture of VANET based on blockchain and mobile edge computing
-excerpt: 'EI.'
+excerpt: 'EI'
 date: 2018
 venue: '2018 1st IEEE International Conference on Hot Information-Centric Networking (HotICN)'
 paperurl: 'https://doi.org/10.1109/HOTICN.2018.8605952'
