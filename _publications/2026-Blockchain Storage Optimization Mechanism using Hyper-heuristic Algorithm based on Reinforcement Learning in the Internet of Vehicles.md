@@ -3,10 +3,10 @@ title: "Blockchain Storage Optimization Mechanism using Hyper-heuristic Algorith
 collection: publications
 category: manuscripts
 permalink: /publication/2026-Blockchain Storage Optimization Mechanism using Hyper-heuristic Algorithm based on Reinforcement Learning in the Internet of Vehicles
-excerpt: '中科院JCR期刊分区4区，影响因子：1.7'
+excerpt: '中科院JCR期刊分区1区Top，影响因子：8.0'
 date: 2025-12-9
-venue: 'CMC-Computers, Materials & Continua'
-paperurl: 'https://doi.org/10.32604/cmc.2025.072384'
+venue: 'Engineering Applications of Artificial Intelligence'
+paperurl: 'https://doi.org/10.1016/j.engappai.2026.113964'
 citation: '<b>Xiaodong Zhang</b>, Wenhan Hou, Juanjuan Wang, Leixiao Li, Pengfei Yue, "Overcoming Dynamic Connectivity in Internet of Vehicles: A DAG Lattice Blockchain with Reputation-Based Incentive", CMC-Computers, Materials & Continua, vol. 86, no. 2, pp. 1-20, 2026.'
 ---
 
