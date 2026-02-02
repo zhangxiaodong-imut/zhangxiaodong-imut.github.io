@@ -1,5 +1,5 @@
 ---
-title: "Overcoming Dynamic Connectivity in Internet of Vehicles: A DAG Lattice Blockchain with Reputation-Based Incentive"
+title: "Blockchain Storage Optimization Mechanism using Hyper-heuristic Algorithm based on Reinforcement Learning in the Internet of Vehicles"
 collection: publications
 category: manuscripts
 permalink: /publication/2026-Blockchain Storage Optimization Mechanism using Hyper-heuristic Algorithm based on Reinforcement Learning in the Internet of Vehicles
