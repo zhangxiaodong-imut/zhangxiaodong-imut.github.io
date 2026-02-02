@@ -2,7 +2,7 @@
 title: "Overcoming Dynamic Connectivity in Internet of Vehicles: A DAG Lattice Blockchain with Reputation-Based Incentive"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-Overcoming Dynamic Connectivity in Internet of Vehicles A DAG Lattice Blockchain with Reputation-Based Incentive
+permalink: /publication/2026-Blockchain Storage Optimization Mechanism using Hyper-heuristic Algorithm based on Reinforcement Learning in the Internet of Vehicles
 excerpt: '中科院JCR期刊分区4区，影响因子：1.7'
 date: 2025-12-9
 venue: 'CMC-Computers, Materials & Continua'
