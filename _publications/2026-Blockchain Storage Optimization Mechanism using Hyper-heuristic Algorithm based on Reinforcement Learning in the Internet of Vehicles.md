@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2026-Blockchain Storage Optimization Mechanism using Hyper-heuristic Algorithm based on Reinforcement Learning in the Internet of Vehicles
 excerpt: '中科院JCR期刊分区1区Top，影响因子：8.0'
-date: 2025-12-9
+date: 2026-3-15
 venue: 'Engineering Applications of Artificial Intelligence'
 paperurl: 'https://doi.org/10.1016/j.engappai.2026.113964'
 citation: '<b>Xiaodong Zhang</b>, Ru Li, Leixiao Li, Gang Wang, Jianxiong Wan and Pengfei Yue, "Blockchain Storage Optimization Mechanism using Hyper-heuristic Algorithm based on Reinforcement Learning in the Internet of Vehicles", Engineering Applications of Artificial Intelligence, vol. 168, pp. 113964, 2026.'
