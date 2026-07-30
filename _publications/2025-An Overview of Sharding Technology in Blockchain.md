@@ -6,7 +6,7 @@ permalink: /publication/2025-An Overview of Sharding Technology in Blockchain
 excerpt: 'EI检索'
 date: 2025-08-15
 venue: '2025 6th International Conference on Blockchain Technology(ICBCT2025)'
-paperurl: ''
+paperurl: 'https://dl.acm.org/doi/10.1145/3778335.3778337'
 citation: 'Yuqi Wang, <b>Xiaodong Zhang</b>, Yue He, "An Overview of Sharding Technology in Blockchain", 2025 6th International Conference on Blockchain Technology (ICBCT2025), Hohhot, China, 2025, pp. 1-6.'
 ---
 
