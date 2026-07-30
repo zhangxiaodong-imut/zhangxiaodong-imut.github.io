@@ -6,7 +6,7 @@ permalink: /publication/2025-A Survey on Consensus Mechanism in Internet of Vehi
 excerpt: 'EI检索'
 date: 2025-08-15
 venue: '2025 6th International Conference on Blockchain Technology(ICBCT2025)'
-paperurl: ''
+paperurl: 'https://dl.acm.org/doi/10.1145/3778335.3778338'
 citation: '<b>Xiaodong Zhang</b>, Leixiao Li, Gang Wang, Pengfei Yue, "A Survey on Consensus Mechanism in Internet of Vehicles", 2025 6th International Conference on Blockchain Technology (ICBCT2025), Hohhot, China, 2025, pp. 1-6.'
 ---
 
